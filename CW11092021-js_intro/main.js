@@ -15,3 +15,5 @@ resultOfshapes = shapeOflands*coefficient;
 
 console.log('Длинна забора составляет', resultOfshapes, 'метров');
 
+/// comment
+
