@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: green;
+}
+
+div {
+  width: 400px;
+  height: 400px;
+  border: 1px solid blue;
+  margin: 0 auto;
+  text-align: center;
+}
+.alert1 {
+  background-image: url("../image/2413_AJ-imKrvp6w.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: blue;
+  font-size: 25px;
+}
+
+.alert2 {
+  background-color: yellowgreen;
+  width: 200px;
+  height: 100px;
+}
